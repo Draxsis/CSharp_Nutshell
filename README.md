@@ -1,4 +1,3 @@
-# :file_folder:This Repo includes my collections in the form of essential and summarized Back-End/Front-End for employment.
 # Includes  : 
 
 1 - C# Microsoft Documnet (important topics).
